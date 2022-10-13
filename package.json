@@ -4,7 +4,8 @@
   "description": "https://www.theodinproject.com/lessons/node-path-javascript-testing-practice",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "analyzeArray": "jest -t 'Analyze Array'"
   },
   "repository": {
     "type": "git",
